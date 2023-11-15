@@ -1,0 +1,11 @@
+@font-face {
+  src: url("./fonts/font-majer.woff2") format("woff2");
+  font-family: Manjer;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./fonts/font-symbols.woff2") format("woff2");
+  font-family: Symbol;
+  font-display: swap;
+}

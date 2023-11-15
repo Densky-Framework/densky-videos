@@ -1,0 +1,22 @@
+{
+  "name": "router-1",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "@motion-canvas/2d": "^3.9.0",
+    "@motion-canvas/core": "^3.9.0",
+    "@motion-canvas/ffmpeg": "^1.1.0",
+    "video-common": "workspace:*"
+  },
+  "devDependencies": {
+    "@motion-canvas/ui": "^3.9.0",
+    "@motion-canvas/vite-plugin": "^3.9.0",
+    "@types/node": "^20.4.2",
+    "typescript": "^4.9.5",
+    "vite": "^4.4.4"
+  }
+}
